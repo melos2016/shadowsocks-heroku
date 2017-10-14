@@ -7,6 +7,9 @@ shadowsocks-heroku uses WebSocket instead of raw sockets, so it can be deployed 
 
 Notice that the protocol is INCOMPATIBLE with the origin shadowsocks.
 
+## 部署
+1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/melos2016/shadowsocks-heroku/tree/master)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/melos2016/shadowsocks-heroku/tree/master)
+
 Heroku
 ------
 
